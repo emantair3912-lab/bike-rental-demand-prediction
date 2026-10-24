@@ -1,3 +1,5 @@
+deployed link:https://eman-bike-demand-app.streamlit.app/
+
 # Bike Rental Demand Prediction System
 
 Machine Learning Fundamentals (AIC354) – Assignment 3, Task 2.
